@@ -1,0 +1,9 @@
+{
+	"id": "nevGzknQ77gJ8o0",
+	"json": "{\"id\":\"nevGzknQ77gJ8o0\",\"url\":\"https://demo-webstore.apify.org/product/loafers-for-men\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/loafers-for-men\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/loafers-for-men\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-10-24T09:10:12.298Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://demo-webstore.apify.org/product/loafers-for-men",
+	"url": "https://demo-webstore.apify.org/product/loafers-for-men"
+}

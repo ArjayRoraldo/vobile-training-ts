@@ -1,0 +1,9 @@
+{
+	"id": "3tLxX0YXWpN4uTE",
+	"json": "{\"id\":\"3tLxX0YXWpN4uTE\",\"url\":\"https://demo-webstore.apify.org/product/women-winter-clothes\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/women-winter-clothes\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/women-winter-clothes\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-10-24T09:10:09.783Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://demo-webstore.apify.org/product/women-winter-clothes",
+	"url": "https://demo-webstore.apify.org/product/women-winter-clothes"
+}

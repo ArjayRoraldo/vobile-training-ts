@@ -1,0 +1,9 @@
+{
+	"id": "q6kJb5o9AOtx7uW",
+	"json": "{\"id\":\"q6kJb5o9AOtx7uW\",\"url\":\"https://demo-webstore.apify.org/product/half-sleeves-t-shirts\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/half-sleeves-t-shirts\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/half-sleeves-t-shirts\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-10-24T09:10:11.769Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://demo-webstore.apify.org/product/half-sleeves-t-shirts",
+	"url": "https://demo-webstore.apify.org/product/half-sleeves-t-shirts"
+}

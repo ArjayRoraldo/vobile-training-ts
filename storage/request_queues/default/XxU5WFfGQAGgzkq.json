@@ -1,0 +1,9 @@
+{
+	"id": "XxU5WFfGQAGgzkq",
+	"json": "{\"id\":\"XxU5WFfGQAGgzkq\",\"url\":\"https://demo-webstore.apify.org/product/sleeve-shirt-womens\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/sleeve-shirt-womens\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/sleeve-shirt-womens\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-10-24T09:10:09.192Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://demo-webstore.apify.org/product/sleeve-shirt-womens",
+	"url": "https://demo-webstore.apify.org/product/sleeve-shirt-womens"
+}

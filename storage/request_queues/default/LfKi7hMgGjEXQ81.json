@@ -1,0 +1,9 @@
+{
+	"id": "LfKi7hMgGjEXQ81",
+	"json": "{\"id\":\"LfKi7hMgGjEXQ81\",\"url\":\"https://demo-webstore.apify.org/product/malai-maxi-dress\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/malai-maxi-dress\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/malai-maxi-dress\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-10-24T09:10:11.661Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://demo-webstore.apify.org/product/malai-maxi-dress",
+	"url": "https://demo-webstore.apify.org/product/malai-maxi-dress"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Y01WvsdvzFi8z7D",
+	"json": "{\"id\":\"Y01WvsdvzFi8z7D\",\"url\":\"https://demo-webstore.apify.org/product/leather-hand-bag\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/leather-hand-bag\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/leather-hand-bag\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-10-24T09:10:13.829Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://demo-webstore.apify.org/product/leather-hand-bag",
+	"url": "https://demo-webstore.apify.org/product/leather-hand-bag"
+}

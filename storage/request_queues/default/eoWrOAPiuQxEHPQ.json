@@ -1,0 +1,9 @@
+{
+	"id": "eoWrOAPiuQxEHPQ",
+	"json": "{\"id\":\"eoWrOAPiuQxEHPQ\",\"url\":\"https://demo-webstore.apify.org/product/ladies-multicolored-dress\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/ladies-multicolored-dress\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/ladies-multicolored-dress\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-10-24T09:10:10.427Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://demo-webstore.apify.org/product/ladies-multicolored-dress",
+	"url": "https://demo-webstore.apify.org/product/ladies-multicolored-dress"
+}

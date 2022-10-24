@@ -1,0 +1,9 @@
+{
+	"id": "XCMIjWHGF24lc7M",
+	"json": "{\"id\":\"XCMIjWHGF24lc7M\",\"url\":\"https://demo-webstore.apify.org/product/women-sweaters-wool\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/women-sweaters-wool\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/women-sweaters-wool\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-10-24T09:10:09.474Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://demo-webstore.apify.org/product/women-sweaters-wool",
+	"url": "https://demo-webstore.apify.org/product/women-sweaters-wool"
+}
