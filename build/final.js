@@ -1,16 +1,11 @@
-"use strict";
-var __importDefault = (this && this.__importDefault) || function (mod) {
-    return (mod && mod.__esModule) ? mod : { "default": mod };
-};
-Object.defineProperty(exports, "__esModule", { value: true });
-const got_scraping_1 = require("got-scraping");
-const cheerio_1 = __importDefault(require("cheerio"));
+import { gotScraping } from 'got-scraping';
+import cheerio from 'cheerio';
 const Final = async () => {
     const BASE_URL = 'https://demo-webstore.apify.org';
     const startURL = `${BASE_URL}/search/on-sale`;
     console.log(`Going to ${startURL}`);
-    const response = await (0, got_scraping_1.gotScraping)(startURL);
-    const $ = cheerio_1.default.load(response.body);
+    const response = await gotScraping(startURL);
+    const $ = cheerio.load(response.body);
     const productLinks = [];
     for (const product of $('a[href*="product"]')) {
         const relative = $(product).attr('href');
@@ -23,8 +18,8 @@ const Final = async () => {
     for (const url of productLinks) {
         try {
             console.log(`Scraping ${url}`);
-            const productResponse = await (0, got_scraping_1.gotScraping)(url);
-            const $$ = cheerio_1.default.load(productResponse.body);
+            const productResponse = await gotScraping(url);
+            const $$ = cheerio.load(productResponse.body);
             const title = $$('h3').text().trim();
             const price = $$('h3 + div').text().trim();
             const description = $$('div[class*="Text_body"]').text().trim();

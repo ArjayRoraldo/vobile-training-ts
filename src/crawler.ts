@@ -2,7 +2,7 @@
 import { gotScraping } from 'got-scraping';
 import cheerio from 'cheerio';
 
-const Crawler = async () => {
+export const Crawler = async () => {
 	const WEBSITE_URL = 'https://demo-webstore.apify.org/';
 
 	const response = await gotScraping('https://demo-webstore.apify.org/');
@@ -30,5 +30,3 @@ const Crawler = async () => {
 		}
 	}
 };
-
-Crawler();

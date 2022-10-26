@@ -1,6 +1,6 @@
 {
 	"id": "Wwn8lfjZyuZzFUo",
-	"json": "{\"id\":\"Wwn8lfjZyuZzFUo\",\"url\":\"https://demo-webstore.apify.org/product/samsung-universe-9\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/samsung-universe-9\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/samsung-universe-9\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-10-24T09:10:05.165Z\"}",
+	"json": "{\"id\":\"Wwn8lfjZyuZzFUo\",\"url\":\"https://demo-webstore.apify.org/product/samsung-universe-9\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/samsung-universe-9\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/samsung-universe-9\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-10-26T08:41:46.038Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

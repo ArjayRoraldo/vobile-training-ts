@@ -1,7 +1,7 @@
 import { gotScraping } from 'got-scraping';
 import cheerio from 'cheerio';
 
-const Final = async () => {
+export const Final = async () => {
 	const BASE_URL = 'https://demo-webstore.apify.org';
 
 	const startURL = `${BASE_URL}/search/on-sale`;
@@ -51,5 +51,3 @@ const Final = async () => {
 	console.log(`${results.length} results:`);
 	console.log(results);
 };
-
-Final();

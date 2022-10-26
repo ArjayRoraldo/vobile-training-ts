@@ -1,6 +1,6 @@
 {
 	"id": "lP0nwjoU4QGH0R5",
-	"json": "{\"id\":\"lP0nwjoU4QGH0R5\",\"url\":\"https://demo-webstore.apify.org/product/hyaluronic-acid-serum\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/hyaluronic-acid-serum\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/hyaluronic-acid-serum\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-10-24T09:10:07.260Z\"}",
+	"json": "{\"id\":\"lP0nwjoU4QGH0R5\",\"url\":\"https://demo-webstore.apify.org/product/hyaluronic-acid-serum\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/hyaluronic-acid-serum\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/hyaluronic-acid-serum\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-10-26T08:41:37.297Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

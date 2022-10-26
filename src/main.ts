@@ -3,7 +3,7 @@ import cheerio from 'cheerio';
 import { parse } from 'json2csv';
 import { writeFileSync } from 'fs';
 
-const Main = async () => {
+export const Main = async () => {
 	const response = await gotScraping(
 		'https://demo-webstore.apify.org/search/on-sale'
 	);
@@ -30,5 +30,3 @@ const Main = async () => {
 
 	writeFileSync('products.csv', csv);
 };
-
-Main();

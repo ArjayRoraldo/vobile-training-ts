@@ -1,14 +1,9 @@
-"use strict";
-var __importDefault = (this && this.__importDefault) || function (mod) {
-    return (mod && mod.__esModule) ? mod : { "default": mod };
-};
-Object.defineProperty(exports, "__esModule", { value: true });
-const crawlee_1 = require("crawlee");
-const cheerio_1 = __importDefault(require("cheerio"));
+import { PlaywrightCrawler, Dataset } from 'crawlee';
+import cheerio from 'cheerio';
 const Crawlee = async () => {
-    const crawler = new crawlee_1.PlaywrightCrawler({
+    const crawler = new PlaywrightCrawler({
         requestHandler: async ({ page, request, enqueueLinks }) => {
-            const $ = cheerio_1.default.load(await page.content());
+            const $ = cheerio.load(await page.content());
             if (request.userData.label === 'START') {
                 await enqueueLinks({
                     selector: 'a[href*="/product/"]',
@@ -22,7 +17,7 @@ const Crawlee = async () => {
             const imageRelative = $('img[alt="Product Image"]').attr('src');
             const base = new URL(request.url).origin;
             const image = new URL(imageRelative, base).href;
-            await crawlee_1.Dataset.pushData({
+            await Dataset.pushData({
                 title,
                 description,
                 price,

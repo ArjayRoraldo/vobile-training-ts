@@ -1,6 +1,6 @@
 {
 	"id": "VOD0NbZlCI47PtU",
-	"json": "{\"id\":\"VOD0NbZlCI47PtU\",\"url\":\"https://demo-webstore.apify.org/product/american-vintage-wood-pendant-light\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/american-vintage-wood-pendant-light\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/american-vintage-wood-pendant-light\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-10-24T09:10:15.867Z\"}",
+	"json": "{\"id\":\"VOD0NbZlCI47PtU\",\"url\":\"https://demo-webstore.apify.org/product/american-vintage-wood-pendant-light\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/american-vintage-wood-pendant-light\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/american-vintage-wood-pendant-light\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-10-26T08:41:50.194Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

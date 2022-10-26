@@ -1,6 +1,6 @@
 {
 	"id": "4mllqB8DXUsTKAb",
-	"json": "{\"id\":\"4mllqB8DXUsTKAb\",\"url\":\"https://demo-webstore.apify.org/product/fashion-magnetic-wrist-watch\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/fashion-magnetic-wrist-watch\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/fashion-magnetic-wrist-watch\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-10-24T09:10:12.885Z\"}",
+	"json": "{\"id\":\"4mllqB8DXUsTKAb\",\"url\":\"https://demo-webstore.apify.org/product/fashion-magnetic-wrist-watch\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/fashion-magnetic-wrist-watch\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/fashion-magnetic-wrist-watch\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-10-26T08:41:46.588Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

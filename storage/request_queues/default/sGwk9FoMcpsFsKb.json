@@ -1,6 +1,6 @@
 {
 	"id": "sGwk9FoMcpsFsKb",
-	"json": "{\"id\":\"sGwk9FoMcpsFsKb\",\"url\":\"https://demo-webstore.apify.org/product/cereals-muesli-fruit-nuts\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/cereals-muesli-fruit-nuts\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/cereals-muesli-fruit-nuts\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-10-24T09:10:07.193Z\"}",
+	"json": "{\"id\":\"sGwk9FoMcpsFsKb\",\"url\":\"https://demo-webstore.apify.org/product/cereals-muesli-fruit-nuts\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/cereals-muesli-fruit-nuts\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/cereals-muesli-fruit-nuts\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-10-26T08:41:37.094Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

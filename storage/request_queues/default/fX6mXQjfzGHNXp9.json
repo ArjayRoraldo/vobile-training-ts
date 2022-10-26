@@ -1,6 +1,6 @@
 {
 	"id": "fX6mXQjfzGHNXp9",
-	"json": "{\"id\":\"fX6mXQjfzGHNXp9\",\"url\":\"https://demo-webstore.apify.org/product/hp-pavilion-15-dk1056wm\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/hp-pavilion-15-dk1056wm\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/hp-pavilion-15-dk1056wm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-10-24T09:10:05.945Z\"}",
+	"json": "{\"id\":\"fX6mXQjfzGHNXp9\",\"url\":\"https://demo-webstore.apify.org/product/hp-pavilion-15-dk1056wm\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/hp-pavilion-15-dk1056wm\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/hp-pavilion-15-dk1056wm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-10-26T08:41:33.949Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,
