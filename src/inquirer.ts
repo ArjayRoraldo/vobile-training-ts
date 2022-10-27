@@ -1,38 +1,45 @@
 import inquirer from 'inquirer';
-import { Crawlee } from './crawlee.js';
-import { Crawler } from './crawler.js';
-import { Dataset } from './dataset.js';
-import { Final } from './final.js';
-import { Main } from './main.js';
 
-inquirer
-	.prompt([
-		{
-			type: 'list',
-			name: 'apifyTypes',
-			choices: ['Crawlee', 'Crawler', 'Dataset', 'Final', 'Main'],
-		},
-	])
-	.then((answers: { apifyTypes: string }) => {
-		console.log('test', answers.apifyTypes);
-		switch (answers.apifyTypes) {
-			case 'Crawlee':
-				Crawlee();
-				break;
-			case 'Crawler':
-				Crawler();
-				break;
-			case 'Dataset':
-				Dataset();
-				break;
-			case 'Final':
-				Final();
-				break;
-			case 'Main':
-				Main();
-				break;
+import crawlee from './crawlee.js';
+import crawler from './crawler.js';
+import dataset from './dataset.js';
+import final from './final.js';
+import main from './main.js';
 
-			default:
-				break;
-		}
-	});
+export default class Inquirer {
+	constructor() {}
+
+	inquirerPrompt() {
+		inquirer
+			.prompt([
+				{
+					type: 'list',
+					name: 'apifyTypes',
+					choices: ['Crawlee', 'Crawler', 'Dataset', 'Final', 'Main'],
+				},
+			])
+			.then((answers: { apifyTypes: string }) => {
+				console.log('test', answers.apifyTypes);
+				switch (answers.apifyTypes) {
+					case 'Crawlee':
+						crawlee();
+						break;
+					case 'Crawler':
+						crawler();
+						break;
+					case 'Dataset':
+						dataset();
+						break;
+					case 'Final':
+						final();
+						break;
+					case 'Main':
+						main();
+						break;
+
+					default:
+						break;
+				}
+			});
+	}
+}

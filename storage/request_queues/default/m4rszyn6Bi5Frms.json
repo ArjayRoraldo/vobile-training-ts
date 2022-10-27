@@ -1,6 +1,6 @@
 {
 	"id": "m4rszyn6Bi5Frms",
-	"json": "{\"id\":\"m4rszyn6Bi5Frms\",\"url\":\"https://demo-webstore.apify.org/product/samsung-galaxy-book\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/samsung-galaxy-book\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/samsung-galaxy-book\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-10-26T08:41:33.202Z\"}",
+	"json": "{\"id\":\"m4rszyn6Bi5Frms\",\"url\":\"https://demo-webstore.apify.org/product/samsung-galaxy-book\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/samsung-galaxy-book\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/samsung-galaxy-book\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-10-27T07:41:55.442Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

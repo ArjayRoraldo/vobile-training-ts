@@ -1,7 +1,7 @@
 import { PlaywrightCrawler, Dataset } from 'crawlee';
 import cheerio from 'cheerio';
 
-export const Crawlee = async () => {
+const crawlee = async () => {
 	const crawler = new PlaywrightCrawler({
 		requestHandler: async ({ page, request, enqueueLinks }) => {
 			const $ = cheerio.load(await page.content());
@@ -42,3 +42,5 @@ export const Crawlee = async () => {
 
 	await crawler.run();
 };
+
+export default crawlee;

@@ -1,6 +1,6 @@
 {
 	"id": "58nlAOhgzmev1MO",
-	"json": "{\"id\":\"58nlAOhgzmev1MO\",\"url\":\"https://demo-webstore.apify.org/product/sofa-for-coffe-cafe\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/sofa-for-coffe-cafe\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/sofa-for-coffe-cafe\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-10-26T08:41:39.126Z\"}",
+	"json": "{\"id\":\"58nlAOhgzmev1MO\",\"url\":\"https://demo-webstore.apify.org/product/sofa-for-coffe-cafe\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/sofa-for-coffe-cafe\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/sofa-for-coffe-cafe\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-10-27T07:41:59.318Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,
